@@ -1,3 +1,5 @@
+// foo
+
 import edu.princeton.cs.introcs.*;
 
 public class CrapsGame
